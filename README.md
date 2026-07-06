@@ -26,7 +26,7 @@ Durante a elaboração deste caderno, enfrentei um desafio comum em pesquisas co
 ## 4. Miniguia de Estudo
 Abaixo, apresento a análise comparativa gerada através da interação com a IA:
 
-![Comparação Técnica](assets/comparacao-tecnica.jpg)
+![Comparação Técnica](assets/comparacao-tecnica.png)
 
 ### Glossário de Conceitos Chave
 * **Regra de Dependência:** O princípio de que dependências de código só podem apontar para dentro (em direção às políticas de negócio).
