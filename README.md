@@ -9,11 +9,9 @@ A **Clean Architecture**, proposta por Robert C. Martin (Uncle Bob), é uma filo
 - Aprender a aplicar esses conceitos em projetos práticos, garantindo um código mais desacoplado.
 
 ## 2. Curadoria de Fontes
+Para este desafio, utilizei quatro fontes primárias de referência para garantir a qualidade técnica do material, conforme a configuração abaixo:
 
-Para este desafio, utilizei quatro fontes primárias de referência para garantir a qualidade técnica do material:
-
-![Ambiente de estudo no NotebookLM](notebooklm-setup.png)
-*Figura 1: Configuração do ambiente no NotebookLM com as fontes selecionadas.*
+![Ambiente de estudo no NotebookLM](assets/setup-notebooklm.png)
 
 ## 3. Engenharia de Prompts e "Cicatrizes"
 
@@ -26,9 +24,9 @@ Durante a elaboração deste caderno, enfrentei um desafio comum em pesquisas co
 > "Com base nestes documentos (fontes primárias), crie uma tabela comparativa entre a Clean Architecture do Uncle Bob e o estilo de arquitetura em camadas da Microsoft, focando em divergências de dependência e flexibilidade."
 
 ## 4. Miniguia de Estudo
-Aqui consolidei a análise técnica comparativa realizada:
+Abaixo, apresento a análise comparativa gerada através da interação com a IA:
 
-[COLE AQUI A COMPARAÇÃO TÉCNICA QUE VOCÊ GEROU]
+![Comparação Técnica](assets/comparacao-tecnica.jpg)
 
 ### Glossário de Conceitos Chave
 * **Regra de Dependência:** O princípio de que dependências de código só podem apontar para dentro (em direção às políticas de negócio).
